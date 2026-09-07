@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Coffee Shop",
+    "slug": "coffee-shop-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F2E9DC"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourcompany.coffeeshop"
+    },
+    "android": {
+      "package": "com.yourcompany.coffeeshop",
+      "adaptiveIcon": {
+        "backgroundColor": "#F2E9DC"
+      }
+    }
+  }
+}
