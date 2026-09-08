@@ -102,8 +102,11 @@ Git & GitHub	Version control and source management
 
 ⸻
 
-🏗️ Project Architecture
+## 🏗️ Project Architecture
 
+The project separates UI components, application state, navigation, services, business logic, types, and styling into dedicated modules.
+
+```text
 coffee-shop-app/
 │
 ├── App.tsx
@@ -154,8 +157,6 @@ coffee-shop-app/
 ├── firebase.json
 ├── package.json
 └── tsconfig.json
-
-The project separates UI components, application state, navigation, services, business logic, types, and styling into dedicated modules.
 
 ⸻
 
