@@ -157,6 +157,7 @@ coffee-shop-app/
 ├── firebase.json
 ├── package.json
 └── tsconfig.json
+```
 
 ⸻
 
